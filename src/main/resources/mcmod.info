@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cqc",
+  "name": "CQC",
+  "description": "Close Quarters Combat, an companion mod to Vic's Modern Warfare",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mallrat208"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
